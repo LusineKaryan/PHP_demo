@@ -12,14 +12,14 @@
             <!-- Le corps -->
             <section>
                 <article>
-                    <p>Article </p>
+                    <p>Article </p>  
                 </article>
                 <aside>
                     <p>Aside </p>
                 </aside>
             </section>
             <!-- Le pied de page -->
-            <?php include("pied_de_page.php"); ?>
+            <?php include("pied_de_page.php"); ?> 
         </div>
     </body>
     </html>

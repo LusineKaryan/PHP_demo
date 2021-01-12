@@ -1,4 +1,6 @@
-<nav>
+<?php
+
+?><nav>
     <ul>
         <li><a href="#">Accueil</a></li>
         <li><a href="#">Blog</a></li>
