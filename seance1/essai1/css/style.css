@@ -29,8 +29,12 @@ ul li a {
     color: rgb(41, 92, 138);
 }
 
+section {
+    display:flex;
+    flex-direction: row;
+}
+
 article {
-  
     width: 70%;
     height: 300px;
     background-color: rgb(151, 219, 87);
@@ -63,7 +67,3 @@ footer p{
     padding: 10px 50px;
 }
 
-section {
-    display:flex;
-    flex-direction: row;
-}

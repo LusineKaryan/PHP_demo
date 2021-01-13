@@ -1,6 +1,6 @@
 <?php
 
-?><nav>
+?><nav class=”navbar navbar-inverse navbar-static-top”>
     <ul>
         <li><a href="#">Accueil</a></li>
         <li><a href="#">Blog</a></li>
